@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['rjayroach@gmail.com']
 
   spec.summary       = 'Rails on Services is an anti-bikeshedding for rails in a micro-services environment'
-  spec.description   = 'Quickly stand up an API driven business application in a mircorservice environemnt using standards such as JSONAPI'
+  spec.description   = 'Quickly stand up an API driven business application in a mircorservice environment using standards such as JSONAPI'
   spec.homepage      = 'https://rails-on-services.org'
   spec.license       = 'MIT'
 

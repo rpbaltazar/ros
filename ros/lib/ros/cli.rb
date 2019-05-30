@@ -80,7 +80,7 @@ module Ros
       generator.invoke_all
     end
 
-    # TODO Handle show and edit as well
+    # TODO: Handle show and edit as well
     desc 'lpass ACTION', 'Transfer the contents of app.env to/from a Lastpass account'
     option :username, aliases: '-u'
     def lpass(action)
